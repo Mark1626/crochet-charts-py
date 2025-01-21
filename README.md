@@ -1,6 +1,8 @@
 # Crochet Charts Py
 
-A Python-based application for creating and editing crochet charts. This project is a complete rewrite of [CrochetCharts](https://github.com/iPenguin/CrochetCharts). Stitch assets are taken from the original repo, licensed under GNU GPL.
+A Python-based application for creating and editing crochet charts. Built using DearPyGui.
+
+This project is a complete rewrite of [CrochetCharts](https://github.com/iPenguin/CrochetCharts). Credits to the original author(s) for their work. Stitch artwork is taken from the original repo, licensed by the author [iPenguin](https://github.com/iPenguin) under Creative Commons Attribution-ShareAlike ( cc by-sa 4.0 ).
 
 
 ## Installation
@@ -33,9 +35,8 @@ poetry run pytest tests/
 1. Launch the application
 2. Click "New" to create a new chart
 3. Select a stitch type from the Properties panel
-4. Click "Add Stitch" to enter stitch placement mode
-5. Click on the grid to place stitches
-6. Click "Stop Placing" to exit stitch placement mode
+4. Click on the grid to place stitches
+5. Click "Stop Placing" to exit stitch placement mode
 
 ## License
 
